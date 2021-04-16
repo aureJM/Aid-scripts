@@ -14,6 +14,9 @@ https://github.com/Gnurro/AIDscripts/tree/main/Encounters
 Inventory and Character Sheet by Thaalessalves (javaman)
 https://github.com/thaalesalves
 
+Merge encounters and SC by Lion
+https://github.com/l-io-n
+
 
 
 
