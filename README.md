@@ -2,6 +2,7 @@
 
 Merged Community Scripts for Ai Dungeon. 
 Scripts are written in JS.
+Also add my star wars world that I am doing.
 
 What is AI Dungeon?
 AI Dungeon is an AI-assisted text adventure game created by Latitude and based on the research of OpenAI. Some people have compared it to playing Dungeons & Dragons with an AI as the dungeon master. For more information, see:
