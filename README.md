@@ -16,42 +16,42 @@ Also, my user in AID is https://play.aidungeon.io/main/profile?username=AureJ
 
 Instruccionts for use the scripts in aid:
 
-Scenario Setting
-This is a scenario that uses the simple context, character-sheet, Inventory and more scripts.
-This gives a more customizable scenario possible, 
-you can (/hide) or (/show) the hud of the mod, 
-you can change the direction of the story for example where are you at with (/at)
-or changue who you are 
-with (/you), 
-you can change all that i put here using the same command.
-You can also change what you like in Author's note or (/remember).
+Scenario Setting <br />
+This is a scenario that uses the simple context, character-sheet, Inventory and more scripts. <br />
+This gives a more customizable scenario possible, <br />
+you can (/hide) or (/show) the hud of the mod, <br />
+you can change the direction of the story for example where are you at with (/at) <br />
+or changue who you are <br />
+with (/you), <br />
+you can change all that i put here using the same command. <br />
+You can also change what you like in Author's note or (/remember). <br />
 
-I use default commands in Prompt that you can change later:
+I use default commands in Prompt that you can change later: <br />
 
-/genre space fantasy, space opera.
-/author George Lucas.
-/note This is a story set in the galaxy of Star wars legends.
-/title star wars legends.
-/style detailed, vivid.
-/hide
-
-the /hide is in default for hide the WI only.
-Use /show at start to make the hud appear without the world information, and use the commands in Story.
-
+/genre space fantasy, space opera. <br />
+/author George Lucas. <br />
+/note This is a story set in the galaxy of Star wars legends. <br />
+/title star wars legends. <br />
+/style detailed, vivid. <br />
+/hide <br />
+<br />
+the /hide is in default for hide the WI only. <br />
+Use /show at start to make the hud appear without the world information, and use the commands in Story. <br />
+<br />
 Command: Focus
 Focus is separate from the other three areas as it is pushed to the near front of the queue. If no input is entered into the prompt the focus will take priority as if it was the last line entered. Great for forcing the a scene to progress a certain way.
-
+<br />
 Command: Think
 Situated six positions from the front of the queue, the think command is the mid-strength option for reinforcing plot points.
-
+<br />
 Use for the inventory mod:
-
+<br />
 "/invAdd <item> <number>" (for add item) <br />
 "/invRemove <item> <number>" <br />
 "/invEquip <item>" <br />
 "/invCheck" <br />
 "/invDebugWi" <br />
-
+<br />
 
 Script Credits
 Simple Context by OnePunchVAM
