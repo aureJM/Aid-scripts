@@ -1,6 +1,6 @@
 # Aid-scripts
 
-Merged Community Scripts for Ai Dungeon. 
+I merged Community Scripts for Ai Dungeon. 
 Scripts are written in JS.
 Also add my star wars world that I am doing.
 
