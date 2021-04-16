@@ -18,6 +18,7 @@ Also, my user in AID is https://play.aidungeon.io/main/profile?username=AureJ
 Instruccionts for use the scripts in aid:
 
 Scenario Setting <br />
+
 This is a scenario that uses the simple context, character-sheet, Inventory and more scripts. <br />
 This gives a more customizable scenario possible, <br />
 you can (/hide) or (/show) the hud of the mod, <br />
@@ -53,6 +54,13 @@ Use for the inventory mod:
 "/invCheck" <br />
 "/invDebugWi" <br />
 <br />
+For the promp using Character Sheet mod, This script works with placeholders. Your prompt will need to have the player's characteristics between brackets, or the script won't work. All of this data needs to be in brackets, an in a correct order so the script parses them and insert them into context:
+ For example
+[Kevin] [male] [human] [mage] [20] [stubborn,bad humored,jokester,naughty,grumpy] [light brown] [short] [blond] [178] [60] [slender,rough facial features,scars,quick,fast,acrobat,athletic] [Kevin is a human from the city of Den. He was born to poor parents that died in the street due to diseases when he was young, so he had to grow up on his own by begging or stealing. He managed to get by, but he got arrested multiple times for stealing. But he trained his craft, and learned to act stealthly so he wouldn't get caught. He's heading for the city of San francisco now, as the heard about the Thieves Guild.]
+
+or,
+
+The name of the main character is [${character.name}], and the gender is [${Enter the character's gender...}]. The race is: [${Enter the character's race: human, humanoid, near-humans, red sith}]. The class is: [${Enter the character's class: mercenary, spacer, smuggler, merchant, soldier, assassin, slaver, crime lord, bounty hunter, androids, sith, jedi, mandalorian}] that has just arrived. [${Enter the character's age...}] years old, and the personality traits are: [${Enter the character's three main personality traits separated by commas...}]. The eyes are [${Enter the character's eye color...}], and the hair is of the style [${Enter the character's hair style...}] and of color [${Enter the character's hair color...}]. [${Enter the character's height in centimeters...}] centimeters tall, and the weigh is [${Enter the character's weight in kilos...}] kg. The physical features are: [${Enter the character's three main physical features...}].
 
 Script Credits
 Simple Context by OnePunchVAM
