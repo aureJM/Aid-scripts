@@ -7,7 +7,7 @@ Also add my star wars world that I am doing.
 What is AI Dungeon?
 AI Dungeon is an AI-assisted text adventure game created by Latitude and based on the research of OpenAI. Some people have compared it to playing Dungeons & Dragons with an AI as the dungeon master. For more information, see:
 
-https://wiki.aidungeon.io/wiki/Main_Page
+https://wiki.aidungeon.io/wiki/Main_Page <br />
 https://play.aidungeon.io/main/frequentlyAskedQuestions
 
 ## Play AI Dungeon in your [browser](https://play.aidungeon.io/) or via [Google Play](https://play.google.com/store/apps/details?id=com.aidungeon) or [Apple AppStore](https://apps.apple.com/us/app/ai-dungeon/id1491268416)
