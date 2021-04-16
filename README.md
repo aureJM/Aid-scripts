@@ -46,11 +46,11 @@ Situated six positions from the front of the queue, the think command is the mid
 
 Use for the inventory mod:
 
-"/invAdd <item> <number>" (for add item)
-"/invRemove <item> <number>"
-"/invEquip <item>"
-"/invCheck"
-"/invDebugWi"
+"/invAdd <item> <number>" (for add item) <br />
+"/invRemove <item> <number>" <br />
+"/invEquip <item>" <br />
+"/invCheck" <br />
+"/invDebugWi" <br />
 
 
 Script Credits
